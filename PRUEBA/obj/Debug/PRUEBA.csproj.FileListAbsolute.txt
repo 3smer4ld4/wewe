@@ -1,0 +1,10 @@
+C:\Users\Esmeralda\Desktop\GIT PROYECTO\wewe\PRUEBA\bin\Debug\PRUEBA.exe.config
+C:\Users\Esmeralda\Desktop\GIT PROYECTO\wewe\PRUEBA\bin\Debug\PRUEBA.exe
+C:\Users\Esmeralda\Desktop\GIT PROYECTO\wewe\PRUEBA\bin\Debug\PRUEBA.pdb
+C:\Users\Esmeralda\Desktop\GIT PROYECTO\wewe\PRUEBA\obj\Debug\PRUEBA.csproj.AssemblyReference.cache
+C:\Users\Esmeralda\Desktop\GIT PROYECTO\wewe\PRUEBA\obj\Debug\PRUEBA.Form1.resources
+C:\Users\Esmeralda\Desktop\GIT PROYECTO\wewe\PRUEBA\obj\Debug\PRUEBA.Properties.Resources.resources
+C:\Users\Esmeralda\Desktop\GIT PROYECTO\wewe\PRUEBA\obj\Debug\PRUEBA.csproj.GenerateResource.cache
+C:\Users\Esmeralda\Desktop\GIT PROYECTO\wewe\PRUEBA\obj\Debug\PRUEBA.csproj.CoreCompileInputs.cache
+C:\Users\Esmeralda\Desktop\GIT PROYECTO\wewe\PRUEBA\obj\Debug\PRUEBA.exe
+C:\Users\Esmeralda\Desktop\GIT PROYECTO\wewe\PRUEBA\obj\Debug\PRUEBA.pdb
